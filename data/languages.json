@@ -1,0 +1,27 @@
+[
+  {
+    "name": "TypeScript",
+    "bytes": 1936144,
+    "pct": 88.11
+  },
+  {
+    "name": "HTML",
+    "bytes": 136899,
+    "pct": 6.23
+  },
+  {
+    "name": "CSS",
+    "bytes": 93501,
+    "pct": 4.26
+  },
+  {
+    "name": "Python",
+    "bytes": 24984,
+    "pct": 1.14
+  },
+  {
+    "name": "JavaScript",
+    "bytes": 5905,
+    "pct": 0.27
+  }
+]

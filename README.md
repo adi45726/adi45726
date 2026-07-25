@@ -1,18 +1,15 @@
 <div align="center">
 
+<!-- rotating tagline banner (loops forever, unlike everything else here).
+     regenerate: python scripts/make_tagline_svg.py -->
+
+<img src="./tagline-banner.svg" width="860" alt="Adi — rotating status line" />
+
+<br><br>
+
 <!-- hero: monochrome ASCII portrait (types in) beside a neofetch-style info
      panel. regenerate portrait: python scripts/prep_photo.py <photo> &&
      python scripts/make_ascii_svg.py ; info panel: python scripts/make_info_card.py -->
-
-<!-- animated contribution graph: real data, boxes reveal cell by cell
-     (regenerated daily by .github/workflows/update-profile-art.yml) -->
-
-<h3><code>adi@github ~ $ ./contributions.sh</code></h3>
-
-<img src="./contrib-heatmap.svg" width="860" alt="Adi's GitHub contribution graph — auto-refreshed daily" />
-
-<br>
-<br>
 
 <h3><code>adi@github ~ $ whoami</code></h3>
 
@@ -22,6 +19,40 @@
 <td valign="top"><img src="./info-card.svg" width="490" alt="Adi — current work, stack, highlights" /></td>
 </tr>
 </table>
+
+<br><br>
+
+<!-- animated contribution graph: real data, boxes reveal cell by cell
+     (regenerated daily by .github/workflows/update-profile-art.yml) -->
+
+<h3><code>adi@github ~ $ ./contributions.sh</code></h3>
+
+<img src="./contrib-heatmap.svg" width="860" alt="Adi's GitHub contribution graph — auto-refreshed daily" />
+
+<br><br>
+
+<!-- the classic contribution-eating snake (Platane/snk), regenerated daily
+     alongside the heatmap by the same workflow -->
+
+<img src="./snake.svg" width="860" alt="A snake eating through Adi's contribution graph" />
+
+<br><br>
+
+<!-- real per-language byte counts across public repos, regenerated daily.
+     see scripts/fetch_languages.py + scripts/render_languages_svg.py -->
+
+<h3><code>adi@github ~ $ ./stack.sh --langs</code></h3>
+
+<img src="./languages.svg" width="860" alt="Adi's language usage across public repos" />
+
+<br><br>
+
+<!-- last few real public events (pushes, new repos, ...), regenerated daily.
+     see scripts/fetch_recent_activity.py + scripts/render_activity_svg.py -->
+
+<h3><code>adi@github ~ $ tail -f activity.log</code></h3>
+
+<img src="./activity-ticker.svg" width="860" alt="Adi's recent public GitHub activity" />
 
 <br>
 
