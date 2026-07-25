@@ -1,13 +1,18 @@
 [
   {
     "text": "pushed to adi45726 (main)",
-    "date": "2026-07-25T19:20:19Z",
+    "date": "2026-07-25T19:38:04Z",
     "relative": "1m ago"
+  },
+  {
+    "text": "pushed to adi45726 (main)",
+    "date": "2026-07-25T19:20:19Z",
+    "relative": "18m ago"
   },
   {
     "text": "created branch main in adi45726",
     "date": "2026-07-25T18:48:21Z",
-    "relative": "32m ago"
+    "relative": "50m ago"
   },
   {
     "text": "made gymops-demo public",
@@ -22,11 +27,6 @@
   {
     "text": "pushed to school-task-tracker (main)",
     "date": "2026-07-09T10:09:06Z",
-    "relative": "16d ago"
-  },
-  {
-    "text": "pushed to restaurant-ops-demo (main)",
-    "date": "2026-07-09T10:08:50Z",
     "relative": "16d ago"
   }
 ]
