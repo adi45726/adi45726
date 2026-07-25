@@ -45,7 +45,7 @@ ACCENT = "#22d3ee"
 ROWS = [
     ("host",),
     ("kv", "Now", "Building @ Novexa IT"),          # TODO: your actual title
-    ("kv", "Focus", "Web apps, automation, AI tooling"),
+    ("kv", "Focus", "Role-based ops platforms, industry by industry"),
     ("gap",),
     ("sec", "Stack"),
     ("kv", "Frontend", "React, TypeScript, Next.js"),
@@ -53,10 +53,10 @@ ROWS = [
     ("kv", "Also", "Python, automation & AI workflows"),
     ("gap",),
     ("sec", "Highlights"),
-    ("bul", "CareOps — hospital ops platform"),
+    ("bul", "5 vertical ops platforms: care, gym, real estate, food, biz"),
+    ("bul", "BookItNow — real full-stack app: Next.js + Postgres + Stripe"),
+    ("bul", "School Task Tracker — multi-role ops for schools"),
     ("bul", "Encrypted two-user vault (passwords, docs, tasks)"),
-    ("bul", "Maker-checker invoicing platform"),
-    ("bul", "6+ shipped demo apps: school ops, CRM, gym, booking"),
 ]
 
 
