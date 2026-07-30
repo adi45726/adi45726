@@ -2,26 +2,26 @@
   {
     "name": "TypeScript",
     "bytes": 1936144,
-    "pct": 83.22
+    "pct": 68.77
   },
   {
     "name": "Python",
-    "bytes": 139839,
-    "pct": 6.01
-  },
-  {
-    "name": "HTML",
-    "bytes": 139682,
-    "pct": 6.0
+    "bytes": 314391,
+    "pct": 11.17
   },
   {
     "name": "CSS",
-    "bytes": 98854,
-    "pct": 4.25
+    "bytes": 224212,
+    "pct": 7.96
+  },
+  {
+    "name": "HTML",
+    "bytes": 192413,
+    "pct": 6.83
   },
   {
     "name": "JavaScript",
-    "bytes": 11957,
-    "pct": 0.51
+    "bytes": 148261,
+    "pct": 5.27
   }
 ]
