@@ -1,5 +1,10 @@
 [
   {
+    "text": "pushed to adi45726 (main)",
+    "date": "2026-08-17T16:07:44Z",
+    "relative": "1m ago"
+  },
+  {
     "text": "pushed to rosetta-translate (main)",
     "date": "2026-08-06T04:54:10Z",
     "relative": "11d ago"
@@ -22,11 +27,6 @@
   {
     "text": "pushed to rosetta-translate (main)",
     "date": "2026-07-29T21:37:01Z",
-    "relative": "18d ago"
-  },
-  {
-    "text": "pushed to rosetta-translate (main)",
-    "date": "2026-07-29T21:14:44Z",
     "relative": "18d ago"
   }
 ]
