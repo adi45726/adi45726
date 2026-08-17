@@ -3,7 +3,7 @@
 <!-- rotating tagline banner (loops forever, unlike everything else here).
      regenerate: python scripts/make_tagline_svg.py -->
 
-<img src="./tagline-banner.svg" width="860" alt="Adi — rotating status line" />
+<img src="https://raw.githubusercontent.com/adi45726/adi45726/main/tagline-banner.svg?v=20260817" width="860" alt="Adi — rotating status line" />
 
 <br><br>
 
@@ -15,8 +15,8 @@
 
 <table>
 <tr>
-<td valign="top"><img src="./ascii-portrait.svg" width="370" alt="Adi — ASCII portrait" /></td>
-<td valign="top"><img src="./info-card.svg" width="490" alt="Adi — current work, stack, highlights" /></td>
+<td valign="top"><img src="https://raw.githubusercontent.com/adi45726/adi45726/main/ascii-portrait.svg?v=20260817" width="370" alt="Adi — ASCII portrait" /></td>
+<td valign="top"><img src="https://raw.githubusercontent.com/adi45726/adi45726/main/info-card.svg?v=20260817" width="490" alt="Adi — current work, stack, highlights" /></td>
 </tr>
 </table>
 
@@ -27,14 +27,14 @@
 
 <h3><code>adi@github ~ $ ./contributions.sh</code></h3>
 
-<img src="./contrib-heatmap.svg" width="860" alt="Adi's GitHub contribution graph — auto-refreshed daily" />
+<img src="https://raw.githubusercontent.com/adi45726/adi45726/main/contrib-heatmap.svg?v=20260817" width="860" alt="Adi's GitHub contribution graph — auto-refreshed daily" />
 
 <br><br>
 
 <!-- the classic contribution-eating snake (Platane/snk), regenerated daily
      alongside the heatmap by the same workflow -->
 
-<img src="./snake.svg" width="860" alt="A snake eating through Adi's contribution graph" />
+<img src="https://raw.githubusercontent.com/adi45726/adi45726/main/snake.svg?v=20260817" width="860" alt="A snake eating through Adi's contribution graph" />
 
 <br><br>
 
@@ -43,7 +43,7 @@
 
 <h3><code>adi@github ~ $ ./stack.sh --langs</code></h3>
 
-<img src="./languages.svg" width="860" alt="Adi's language usage across public repos" />
+<img src="https://raw.githubusercontent.com/adi45726/adi45726/main/languages.svg?v=20260817" width="860" alt="Adi's language usage across public repos" />
 
 <br><br>
 
@@ -52,7 +52,7 @@
 
 <h3><code>adi@github ~ $ tail -f activity.log</code></h3>
 
-<img src="./activity-ticker.svg" width="860" alt="Adi's recent public GitHub activity" />
+<img src="https://raw.githubusercontent.com/adi45726/adi45726/main/activity-ticker.svg?v=20260817" width="860" alt="Adi's recent public GitHub activity" />
 
 <br>
 
