@@ -1,22 +1,22 @@
 {
   "username": "adi45726",
-  "generated_at": "2026-08-20T07:03:51Z",
+  "generated_at": "2026-08-21T07:05:24Z",
   "range": {
     "start": "2025-08-17",
+    "end": "2026-08-21"
+  },
+  "total_contributions": 363,
+  "active_days": 51,
+  "avg_per_active_day": 7.1,
+  "current_streak": {
+    "length": 27,
+    "start": "2026-07-25",
     "end": "2026-08-20"
   },
-  "total_contributions": 362,
-  "active_days": 50,
-  "avg_per_active_day": 7.2,
-  "current_streak": {
-    "length": 26,
-    "start": "2026-07-25",
-    "end": "2026-08-19"
-  },
   "longest_streak": {
-    "length": 26,
+    "length": 27,
     "start": "2026-07-25",
-    "end": "2026-08-19"
+    "end": "2026-08-20"
   },
   "best_day": {
     "date": "2026-07-01",
@@ -73,7 +73,7 @@
     },
     {
       "month": "2026-08",
-      "total": 73
+      "total": 74
     }
   ],
   "days": [
@@ -1551,6 +1551,10 @@
     },
     {
       "date": "2026-08-20",
+      "count": 1
+    },
+    {
+      "date": "2026-08-21",
       "count": 0
     }
   ]
