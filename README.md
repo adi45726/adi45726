@@ -15,7 +15,7 @@
 
 <table>
 <tr>
-<td valign="top"><img src="https://adi45726.github.io/adi45726/ascii-portrait.svg" width="370" alt="Adi — ASCII portrait" /></td>
+<td valign="top"><img src="https://adi45726.github.io/adi45726/ascii-portrait.svg?v=stadium" width="370" alt="Adi — ASCII portrait" /></td>
 <td valign="top"><img src="https://adi45726.github.io/adi45726/info-card.svg" width="490" alt="Adi — current work, stack, highlights" /></td>
 </tr>
 </table>
